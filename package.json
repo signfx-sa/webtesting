@@ -1,0 +1,25 @@
+{
+  "name": "brand-b-360-marketing-platform",
+  "version": "2.0.0",
+  "description": "Brand.B \u2014 360\u00b0 Marketing Agency Platform with high-converting responsive UI and zero-dependency Node.js backend.",
+  "author": "Brand.B Growth Team",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "keywords": [
+    "brand-b",
+    "360-marketing",
+    "growth-agency",
+    "performance-marketing",
+    "telecalling-crm",
+    "meta-ads",
+    "branding"
+  ],
+  "license": "UNLICENSED",
+  "private": true
+}
